@@ -1,3 +1,7 @@
+## About
+
+LittleDrOS is a program that finds common vulnerabilities in the Windows Operating System.
+
 
 ## Features
 
