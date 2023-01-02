@@ -1,4 +1,5 @@
 from pystyle import Colors, Colorate
+from pystyle import Box
 
 
 
@@ -15,5 +16,7 @@ banner = """
 """
 
 print(Colors.red + banner)
-print(Colors.blue + "\t===== A simple OS vulnerability scanner - Semester Project. ========")
-print(Colors.green + "\t===== by : Hussain Ashiq, Nimra Gul ..... ====================")
+print(Colors.green)
+
+
+print(Box.Lines("A simple Windows vulnerability scanner - Semester Project."))
